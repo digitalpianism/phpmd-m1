@@ -1,0 +1,13 @@
+{
+    "name": "digitalpianism/phpmd-m1",
+    "description": "A PHPMD ruleset for M1 modules",
+    "require": {
+        "php": "^7.2"
+    },
+    "authors":[
+    {
+      "name":"Raphael Petrini",
+      "email":"contact@digital-pianism.com"
+    }
+  ]
+}
