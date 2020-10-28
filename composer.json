@@ -2,7 +2,7 @@
     "name": "digitalpianism/phpmd-m1",
     "description": "A PHPMD ruleset for M1 modules",
     "license":"OSL-3.0",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "php": ">=7.0"
     },
