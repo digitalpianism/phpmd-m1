@@ -1,6 +1,7 @@
 {
     "name": "digitalpianism/phpmd-m1",
     "description": "A PHPMD ruleset for M1 modules",
+    "version": "1.0.0",
     "require": {
         "php": "^7.*"
     },
